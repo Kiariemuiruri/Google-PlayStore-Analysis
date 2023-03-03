@@ -1,4 +1,4 @@
 # Google-PlayStore-Analysis
 
-<img src="C:/Users/user/Desktop/Apps Analysis/logo.png>
+![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)
 Digging in the Android market
