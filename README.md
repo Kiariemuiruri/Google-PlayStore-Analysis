@@ -2,7 +2,7 @@
 
 ![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg) </br>
 </br>
-
+## About the dataset
 </br>
 **Context**
 </br>
@@ -23,5 +23,5 @@ This information is scraped from the Google Play Store. This app information wou
 </br>
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
 </br>
-
+## Context
 
