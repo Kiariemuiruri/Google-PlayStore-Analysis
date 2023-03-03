@@ -23,7 +23,7 @@ This information is scraped from the Google Play Store. This app information wou
 </br>
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
 </br>
-![alt text](
-## Context
+![alt text](https://github.com/Kiariemuiruri/Google-PlayStore-Analysis/blob/main/download.png?raw=true)
+
 
 
