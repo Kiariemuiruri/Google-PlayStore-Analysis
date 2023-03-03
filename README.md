@@ -14,7 +14,7 @@ While many public datasets (on Kaggle and the like) provide Apple App Store data
 Each app (row) has values for catergory, rating, size, and more.
 </br>
 </br>
-## Acknowledgemnts
+**Acknowledgemnts**
 </br>
 This information is scraped from the Google Play Store. This app information would not be available without it.
 </br>
